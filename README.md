@@ -6,11 +6,12 @@ Welcome to the Climate Change News API! This Node.js application scrapes article
 
 ## Installation
 
-1. Make sure you have Node.js and npm installed on your machine.
-2. Clone this repository:
+Make sure you have Node.js and npm installed on your machine.
+
+Then clone this repository:
 
    ```bash
-    git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/your-username/your-repository.git
    ```
    
 

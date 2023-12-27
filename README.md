@@ -1,7 +1,5 @@
 # Climate Change API
 
-# Climate Change News API
-
 Welcome to the Climate Change News API! This Node.js application scrapes articles related to climate change from various news websites.
 
 ## Installation

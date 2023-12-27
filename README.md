@@ -1,4 +1,4 @@
-# api-climate-change
+# Climate Change API
 
 # Climate Change News API
 
